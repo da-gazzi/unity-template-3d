@@ -1,0 +1,2 @@
+# Git Template for 2D Unity Projects
+Empty 2D Unity project with .gitignore and .gitattributes set up to ignore unnecessary files and store binary files in [git LFS](https://git-lfs.github.com/). .gitignore is the GitHub default, .gitattributes taken from the Unity [FPS Sample Project](https://git-lfs.github.com/).
